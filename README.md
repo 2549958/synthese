@@ -5,72 +5,71 @@ Le guide complet pour les utilisateurs de scooter.
 ## Public cible
 Utilisateurs de scooter qui cherchent à : 
 - Se déplacer facilement et sécuritairement
-- Recevoir des alertes météos locales
+- Recevoir des alertes météo locales
 - Entretenir eux-mêmes leur scooter
 - Économiser temps et argent
 - Partager et obtenir des conseils
 
 ## Problèmes
-- Les applications de navigation existantes ne sont pas adaptées aux scooters.
-- Les scooters nécessitent un entretien régulier et les ressources sont difficiles à trouver.
-- Risques d'imprévus liés à la météo : température, pluie, gel.
+- Les applications GPS actuelles ne sont pas adaptées aux scooters.
+- Ceux-ci nécessitent un entretien régulier et les ressources sont parfois limitées.
+- Il y a des risques d'imprévus liés à la météo, comme la pluie, la température et le gel.
 
 ## Solutions
 Nous proposons :
-- Trajets adaptés : planification facile, rapide et adaptée pour les scooters.
-- Alertes météo : notifications basées sur la météo locale.
-- Communauté active: poser des questions, recevoir des conseils et partager des astuces.
-- Wiki d'entretien : guide complet et collaboratif pour entretenir soi-même son scooter.
-- Historique d'entretien : suivi des maintenances pour préserver l'état du scooter et économiser à long terme.
-
+- Des trajets adaptés selon la vitesse maximale des scooters.
+- Des alertes météo locales pour vous prévenir en avance des conditions routières.
+- Une communauté pour poser des questions, obtenir des réponses, ou tout simplement échanger.
+- Un wiki et un historique d'entretien pour vous guider, afin que vous puissiez entretenir par vous-même votre scooter.
 
 ## Trajet adapté
-- Vitesse ajustable : Les itinéraires tiennent compte de la vitesse maximale du scooter.
-- Météo intégrée : Un aperçu rapide de la météo locale directement dans l’application pour anticiper les conditions routières.
+- Possibilité d'ajuster la vitesse maximale des routes empruntées selon votre aisance.
+- Météo directement intégrée dans l'application pour avoir un aperçu rapide de ce qui s'en vient.
 
 ## Alertes ciblées
-- Météo : Alertes en avance sur les conditions météorologiques, même lorsque l’appli est fermée.
-- Communauté : Notifications quand quelqu’un répond à vos questions, aime vos réponses ou interagit avec vous.
-- Entretien : Rappels pour vous prévenir quand il est temps d’entretenir votre scooter.
+- Alertes météo en avance pour éviter de se faire prendre par la pluie, même lorsque l’application est fermée.
+- Notifications quand quelqu’un répond à une de vos questions ou commentaires.
+- Rappels lorsqu'il est nécessaire d’entretenir votre scooter.
 
 ## Forum dédié
-- Questions / Réponses : Posez vos questions et trouvez des réponses auprès des personnes qui ont vécu des situations similaires et qui peuvent vous aider.
-- Discussions : Partagez vos centres d’intérêt, lieux à visiter ou échangez simplement pour faire partie de la communauté.
+- Posez vos questions, donnez des conseils et interagissez avec la communauté. Vous trouverez toujours quelqu'un qui a vécu une situation similaire à la vôtre !
+- Vous pouvez toujours en profiter pour discuter de vos centres d’intérêt et partager des endroits à visiter.
 
 ## Wiki classé
-- Identifier et résoudre les problèmes : Le wiki bien structuré vous permet de rapidement repérer les problèmes et d’effectuer les réparations par vous-même lorsque possible, pour économiser temps et argent.
-- Wiki collaboratif : La communauté peut mettre à jour le wiki pour qu’il reste d’actualité.
+- Identifier rapidement les problèmes de votre scooter grâce à notre wiki bien structuré.
+- Faites les réparations par vous-même pour économiser temps et argent.
+- De plus, la communauté peut mettre à jour le wiki pour qu’il reste d’actualité.
 
 ## Suivi guidé
-- Historique d’entretien : Enregistrez vos maintenances pour savoir ce qui a été fait et quand, afin d’avoir une vue claire sur l’entretien de votre scooter.
-- Rappels personnalisés : Programmez des notifications pour suivre votre kilométrage et le temps écoulé, afin être prévenu lorsqu’un entretien sera bientôt nécessaire.
+- Gardez des traces de vos entretiens pour savoir ce qui a été fait et quand.
+- Programmez des rappels pour être alerté lorsqu’un entretien est bientôt nécessaire, selon l'utilisation de votre scooter au quotidien.
+- Soyez constant afin de maximiser sa durée de vie et pouvoir le revendre plus facilement !
 
 ## Inspirations
 <img width="1745" height="554" alt="image" src="https://github.com/user-attachments/assets/240b2d50-33d2-4cdd-a282-5d49a7d5d81b" />
 
 ## Pré-production
 - Analyse des besoins des utilisateurs
-- Planification des fonctionnalités
-- Ajout et organisation du contenu du wiki
+- Planification des fonctionnalités et du contenu du wiki
 - Conception des maquettes et prototypes de l’application
 
 ## Production
 - Développement des fonctionnalités
 - Développement de l’application mobile et du site web 
-- Intégration des API pour la carte interactive
-- Mise en place des alertes météo et notifications
+- Mise en place des API pour la carte, la navigation et la météo
 
 ## Post-production
-- Tests pour valider l’expérience et l’ergonomie
-- Ajustement des fonctionnalités selon les retours
-- Correction de bugs
+- Tests des utilisateurs
+- Ajustement des fonctionnalités et de l’ergonomie
+- Correction des bugs
 - Finalisation du produit pour le lancement
 
 ## Opération
 - Modération du contenu publié par la communauté
-- Mise à jour et optimisation en continue
-- Gestion des serveurs et corrections des bugs
-- Suivi des performances et collecte des retours
+- Mise à jour et optimisation de l'application
+- Gestion des serveurs
+- Corrections des bugs
+- Amélioration de l'expérience selon les retours
 
 ## Maquettes
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5cb70c99-2211-46ab-90e7-a7e56a2d6c49" />  
@@ -81,9 +80,21 @@ Nous proposons :
 <img width="1125" height="1125" alt="image" src="https://github.com/user-attachments/assets/58f6c6e4-6d8c-4512-b7f7-78adc6bff073" />
 
 ## Conclusion
-- ScootLink est une application complète pour les utilisateurs de scooter, qui combine navigation, communauté et entretien.
-- Elle répond aux besoins des utilisateurs : sécurité, autonomie, économie de temps et d’argent.
-- En résumé : Affrontez la route, pas les imprévus !
+- ScootLink est une application polyvalente qui combine une navigation adaptée, une communauté prête à aider et tous les outils nécessaires à l'entretien d'un scooter.
+- L'application permet de résoudre les problèmes liés à l'insécurité des trajets et le manque de ressources disponibles.
+- En résumé, « Affrontez la route, pas les imprévus » !
+
+## Sources
+- https://www.flaticon.com/fr/icone-gratuite/public-cible_2476335https://www.flaticon.com/fr/icone-gratuite/public-cible_2476335​
+- https://www.signel.ca/produit/limite-de-vitesse-70-kmh-maximum/​
+- https://www.flaticon.com/fr/icone-gratuite/pluie_2060872?term=nuage+pluie&page=1&position=2&origin=search&related_id=2060872​
+- https://fr.freepik.com/icones/forum​
+- https://www.flaticon.com/fr/icone-gratuite/wikipedia_2920849​
+- https://www.flaticon.com/fr/icone-gratuite/loupe_751381​
+
+​
+
+​
 
 
 
